@@ -1,0 +1,100 @@
+The VoltDB scripts are not in your PATH.
+For ease of use, add the VoltDB bin directory to your path: 
+    /mnt/new_dir/voltdb/bin
+
+./run.sh: Performing client...
+Connecting to servers: localhost
+Connected.  Starting benchmark.
+3.750% Complete | 5.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 217,485 SP calls at 43,497.00 SP/sec | outstanding = 2122 (2122) | min = 0 | max = 209 | avg = 46.89
+     Stock Level:       8674 total,        Delivery:       8584 total,    Order Status:       8469 total,         Payment:      92749 total,       New Order:      96888 total, Reset Warehouse:          0 total,
+7.866% Complete | 10.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 456,215 SP calls at 45,621.50 SP/sec | outstanding = 2054 (-68) | min = 0 | max = 209 | avg = 45.10
+     Stock Level:      18187 total,        Delivery:      18249 total,    Order Status:      18121 total,         Payment:     195088 total,       New Order:     204517 total, Reset Warehouse:          0 total,
+11.181% Complete | 15.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 648,475 SP calls at 43,231.67 SP/sec | outstanding = 2110 (56) | min = 0 | max = 979 | avg = 47.61
+     Stock Level:      25895 total,        Delivery:      25962 total,    Order Status:      25807 total,         Payment:     277804 total,       New Order:     290898 total, Reset Warehouse:          0 total,
+15.602% Complete | 20.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 904,940 SP calls at 45,247.00 SP/sec | outstanding = 2076 (-34) | min = 0 | max = 979 | avg = 45.46
+     Stock Level:      36145 total,        Delivery:      36209 total,    Order Status:      36074 total,         Payment:     388085 total,       New Order:     406352 total, Reset Warehouse:          0 total,
+19.673% Complete | 25.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 1,141,013 SP calls at 45,640.52 SP/sec | outstanding = 2100 (24) | min = 0 | max = 979 | avg = 45.08
+     Stock Level:      45544 total,        Delivery:      45641 total,    Order Status:      45584 total,         Payment:     489998 total,       New Order:     512147 total, Reset Warehouse:          0 total,
+23.533% Complete | 30.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 1,364,914 SP calls at 45,497.13 SP/sec | outstanding = 2090 (-10) | min = 0 | max = 979 | avg = 45.23
+     Stock Level:      54483 total,        Delivery:      54574 total,    Order Status:      54551 total,         Payment:     586186 total,       New Order:     613031 total, Reset Warehouse:          0 total,
+27.839% Complete | 35.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 1,614,675 SP calls at 46,133.57 SP/sec | outstanding = 2084 (-6) | min = 0 | max = 979 | avg = 44.65
+     Stock Level:      64593 total,        Delivery:      64493 total,    Order Status:      64623 total,         Payment:     693316 total,       New Order:     725567 total, Reset Warehouse:          0 total,
+31.982% Complete | 40.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 1,854,959 SP calls at 46,373.98 SP/sec | outstanding = 2048 (-36) | min = 0 | max = 979 | avg = 44.42
+     Stock Level:      74127 total,        Delivery:      74041 total,    Order Status:      74125 total,         Payment:     796544 total,       New Order:     834075 total, Reset Warehouse:          0 total,
+36.218% Complete | 45.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 2,100,622 SP calls at 46,680.49 SP/sec | outstanding = 2060 (12) | min = 0 | max = 979 | avg = 44.13
+     Stock Level:      83893 total,        Delivery:      83834 total,    Order Status:      83943 total,         Payment:     902344 total,       New Order:     944549 total, Reset Warehouse:          0 total,
+40.138% Complete | 50.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 2,328,018 SP calls at 46,560.36 SP/sec | outstanding = 2057 (-3) | min = 0 | max = 979 | avg = 44.25
+     Stock Level:      93174 total,        Delivery:      92900 total,    Order Status:      92997 total,         Payment:    1000023 total,       New Order:    1046868 total, Reset Warehouse:          0 total,
+43.586% Complete | 55.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 2,528,006 SP calls at 45,963.75 SP/sec | outstanding = 2116 (59) | min = 0 | max = 979 | avg = 44.85
+     Stock Level:     101085 total,        Delivery:     100854 total,    Order Status:     101015 total,         Payment:    1085928 total,       New Order:    1137009 total, Reset Warehouse:          0 total,
+47.695% Complete | 60.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 2,766,324 SP calls at 46,105.40 SP/sec | outstanding = 2080 (-36) | min = 0 | max = 979 | avg = 44.72
+     Stock Level:     110688 total,        Delivery:     110355 total,    Order Status:     110611 total,         Payment:    1187820 total,       New Order:    1244771 total, Reset Warehouse:          0 total,
+51.767% Complete | 65.000 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 3,002,472 SP calls at 46,191.88 SP/sec | outstanding = 2100 (20) | min = 0 | max = 979 | avg = 44.61
+     Stock Level:     120262 total,        Delivery:     119801 total,    Order Status:     120132 total,         Payment:    1289097 total,       New Order:    1351081 total, Reset Warehouse:          0 total,
+55.540% Complete | 70.011 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 3,221,310 SP calls at 46,011.48 SP/sec | outstanding = 2092 (-8) | min = 0 | max = 979 | avg = 44.78
+     Stock Level:     129228 total,        Delivery:     128506 total,    Order Status:     128847 total,         Payment:    1383231 total,       New Order:    1449407 total, Reset Warehouse:          0 total,
+59.510% Complete | 75.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 3,451,594 SP calls at 45,972.83 SP/sec | outstanding = 2089 (-3) | min = 0 | max = 979 | avg = 44.69
+     Stock Level:     138427 total,        Delivery:     137667 total,    Order Status:     137977 total,         Payment:    1482372 total,       New Order:    1553063 total, Reset Warehouse:          0 total,
+63.651% Complete | 80.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 3,691,776 SP calls at 46,101.67 SP/sec | outstanding = 2092 (3) | min = 0 | max = 979 | avg = 44.69
+     Stock Level:     148183 total,        Delivery:     147264 total,    Order Status:     147633 total,         Payment:    1585685 total,       New Order:    1660920 total, Reset Warehouse:          0 total,
+68.034% Complete | 85.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 3,945,976 SP calls at 46,380.14 SP/sec | outstanding = 2098 (6) | min = 0 | max = 979 | avg = 44.42
+     Stock Level:     158421 total,        Delivery:     157437 total,    Order Status:     157737 total,         Payment:    1694939 total,       New Order:    1775345 total, Reset Warehouse:          0 total,
+72.224% Complete | 90.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 4,188,985 SP calls at 46,503.46 SP/sec | outstanding = 2070 (-28) | min = 0 | max = 979 | avg = 44.31
+     Stock Level:     168151 total,        Delivery:     167158 total,    Order Status:     167468 total,         Payment:    1799709 total,       New Order:    1884430 total, Reset Warehouse:          0 total,
+76.717% Complete | 95.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 4,449,598 SP calls at 46,798.96 SP/sec | outstanding = 2109 (39) | min = 0 | max = 979 | avg = 44.02
+     Stock Level:     178419 total,        Delivery:     177623 total,    Order Status:     177816 total,         Payment:    1912468 total,       New Order:    2001164 total, Reset Warehouse:          0 total,
+80.481% Complete | 100.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 4,667,897 SP calls at 46,642.12 SP/sec | outstanding = 2065 (-44) | min = 0 | max = 979 | avg = 44.16
+     Stock Level:     187013 total,        Delivery:     186436 total,    Order Status:     186639 total,         Payment:    2006352 total,       New Order:    2099393 total, Reset Warehouse:          0 total,
+84.036% Complete | 105.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 4,874,060 SP calls at 46,384.72 SP/sec | outstanding = 2097 (32) | min = 0 | max = 979 | avg = 44.41
+     Stock Level:     195289 total,        Delivery:     194695 total,    Order Status:     194661 total,         Payment:    2095072 total,       New Order:    2192247 total, Reset Warehouse:          0 total,
+87.014% Complete | 110.079 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 5,046,816 SP calls at 45,847.22 SP/sec | outstanding = 2118 (21) | min = 0 | max = 979 | avg = 44.95
+     Stock Level:     202358 total,        Delivery:     201613 total,    Order Status:     201557 total,         Payment:    2169292 total,       New Order:    2269879 total, Reset Warehouse:          0 total,
+91.059% Complete | 115.080 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 5,281,400 SP calls at 45,893.29 SP/sec | outstanding = 2112 (-6) | min = 0 | max = 979 | avg = 44.90
+     Stock Level:     211771 total,        Delivery:     211039 total,    Order Status:     210974 total,         Payment:    2270115 total,       New Order:    2375390 total, Reset Warehouse:          0 total,
+95.063% Complete | 120.080 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 5,513,669 SP calls at 45,916.63 SP/sec | outstanding = 2096 (-16) | min = 0 | max = 979 | avg = 44.87
+     Stock Level:     221168 total,        Delivery:     220416 total,    Order Status:     220258 total,         Payment:    2370125 total,       New Order:    2479607 total, Reset Warehouse:          0 total,
+99.231% Complete | 125.080 seconds elapsed | Allowing 200,000,000 SP calls/sec: made 5,755,370 SP calls at 46,013.51 SP/sec | outstanding = 2089 (-7) | min = 0 | max = 979 | avg = 44.78
+     Stock Level:     230709 total,        Delivery:     230108 total,    Order Status:     229996 total,         Payment:    2473815 total,       New Order:    2588654 total, Reset Warehouse:          0 total,
+============================== BENCHMARK RESULTS ==============================
+Time: 126161 ms
+Total transactions: 5800000
+Transactions per second: 45973.00
+            Stock Level:     232555 total      1843.32 txn/s    110599.15 txn/m
+               Delivery:     231960 total      1838.60 txn/s    110316.18 txn/m
+           Order Status:     231858 total      1837.79 txn/s    110267.67 txn/m
+                Payment:    2493974 total     19768.19 txn/s   1186091.00 txn/m
+              New Order:    2609653 total     20685.10 txn/s   1241106.00 txn/m
+        Reset Warehouse:          0 total         0.00 txn/s         0.00 txn/m
+===============================================================================
+
+
+
+*************************************************************************
+System Statistics
+*************************************************************************
+ - Ran for 126.16 seconds
+ - Performed 5,800,000 Stored Procedure calls
+ - At 45,973.00 calls per second
+ - Average Latency = 44.79 ms
+ -   Latency   0ms -  25ms = 76,941
+ -   Latency  25ms -  50ms = 4,474,508
+ -   Latency  50ms -  75ms = 598,731
+ -   Latency  75ms - 100ms = 421,197
+ -   Latency 100ms - 125ms = 146,573
+ -   Latency 125ms - 150ms = 28,366
+ -   Latency 150ms - 175ms = 10,466
+ -   Latency 175ms - 200ms = 6,303
+ -   Latency 200ms+        = 36,915
+
+
+-------------------------------------------------------------------------------------
+ System Statistics
+-------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------
+Final:   | Txn.:   5,800,000 [!     26,236] @    45,975.2 TPS | Lat. =       0 <    44.79 <     979
+-------------------------------------------------------------------------------------
+Lat.:     25 <     50 <     75 <    100 <    150 <    200 <    250 <    300 <    300+
+-------------------------------------------------------------------------------------
+%       1.33 |  77.15 |  10.32 |   7.26 |   3.02 |   0.29 |   0.16 |   0.10 |   0.38
